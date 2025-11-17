@@ -18,11 +18,3 @@ This project analyses the board game "Ecosystem" using information from the base
 ## 🛠️ Tools & Libraries
 - Python (3.10+)  
 - NumPy  
-
-
-## 🔍 Methodology
-1. Data collection & cleaning  
-2. Exploratory data analysis (EDA)  
-3. Feature engineering  
-4. Model training & evaluation  
-5. Visualisation & storytelling
